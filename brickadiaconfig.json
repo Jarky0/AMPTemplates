@@ -1,0 +1,41 @@
+[
+    {
+        "DisplayName": "Dedicated Server Token",
+        "Category": "",
+        "Description": "Hosting Token, muss im Client erstellt werden",
+        "Keywords": "",
+        "FieldName": "token",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "token",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Environment",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "Environment",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Environment",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "Plate",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "World Name",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "World",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "World",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
